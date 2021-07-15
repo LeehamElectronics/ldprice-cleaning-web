@@ -6,6 +6,12 @@ div.center_nav {
 
 body {
   font-family: "Alegreya Sans", sans-serif;
+  position: relative;
+}
+
+html,
+body {
+  overflow-x: hidden;
 }
 
 /* Sticky footer position and size
@@ -259,4 +265,7 @@ header {
 }
 .heading_2 {
   font-size: 1.7vh;
+}
+.heading_3 {
+  font-size: 1.5vh;
 }
